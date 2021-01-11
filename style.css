@@ -55,7 +55,8 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 	#qr {
 		width: 12.5%;
 		float: right;
-		margin-right: 30px;
+		margin-top: 30px;
+		margin-right: 120px;
 	}
 	
 	#qr img {
