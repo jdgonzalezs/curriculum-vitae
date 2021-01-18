@@ -1,2 +1,2 @@
 # curriculum-vitae
-Curriculum-vitae github page
+Página correspondiente a la hoja de vida
